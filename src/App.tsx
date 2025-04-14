@@ -19,7 +19,7 @@ function App() {
               View Projects
             </a>
             <a 
-              href="src/assets/documents/MMcClure_Resume.pdf" 
+              href="public/documents/MMcClure_Resume.pdf" 
               download
               className="flex items-center gap-2 bg-blue-700 text-white px-6 py-2 rounded-lg font-medium hover:bg-blue-600 transition-colors ml-4"
             >
@@ -67,7 +67,7 @@ function App() {
             <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow p-6">
             <div className="h-48 bg-blue-100 rounded-lg mb-4 flex items-center justify-center overflow-hidden">
                 <img 
-                  src="src/assets/images/report_tool.png" 
+                  src="public/images/report_tool.png" 
                   alt="Soil Sampling Dashboard Preview" 
                   className="w-full h-full object-cover"
                 />
@@ -81,7 +81,7 @@ function App() {
             <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow p-6">
               <div className="h-48 bg-blue-100 rounded-lg mb-4 flex items-center justify-center overflow-hidden">
                 <img 
-                  src="src/assets/images/sd_design.png" 
+                  src="public/images/sd_design.png" 
                   alt="Soil Sampling Design Application showing aerial imagery with sampling points" 
                   className="w-full h-full object-cover"
                 />
@@ -95,7 +95,7 @@ function App() {
             <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow p-6">
               <div className="h-48 bg-blue-100 rounded-lg mb-4 flex items-center justify-center overflow-hidden">
                 <img 
-                  src="src/assets/images/f1_viz.png" 
+                  src="public/images/f1_viz.png" 
                   alt="F1 Driver Performance Radar Chart" 
                   className="w-full h-full object-contain"
                 />
